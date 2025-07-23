@@ -1,5 +1,5 @@
 # Pandas_in_Russian
-Подробная инструкция по библиотеке Pandas, для начинающих аналитиков данных.
+
 # 🚀 Pandas Tutorial for Beginners
 
 ![Pandas Logo](https://pandas.pydata.org/static/img/pandas_mark.svg)
