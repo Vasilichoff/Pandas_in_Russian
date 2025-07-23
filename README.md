@@ -39,3 +39,16 @@
    ```bash
    git clone https://github.com/твое_имя_пользователя/pandas-tutorial.git
    cd pandas-tutorial
+2. Установи зависимости:
+
+``bash
+pip install -r requirements.txt
+
+
+3. Запусти Jupyter Notebook:
+
+``bash
+
+jupyter notebook
+
+4. Открой и изучай ноутбуки по порядку.
