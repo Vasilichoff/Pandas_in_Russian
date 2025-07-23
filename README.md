@@ -109,7 +109,7 @@
 
 -Сделайте коммит с описанием
 
-О-тправьте Pull Request
+Отправьте Pull Request
 
 
 ## 📝 Лицензия
@@ -127,7 +127,7 @@
   </a>
 </p>
 
-- GitHub: [@Vasilichoff](https://github.com/Vasilichoff)
+GitHub: [@Vasilichoff](https://github.com/Vasilichoff)
 
 Email: vasilich_official@mail.ru
 
